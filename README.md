@@ -14,8 +14,10 @@ This time, even though the general principle is the same, whole proje
 The result at the end is going to get all the directory, subdirectories, files, and file (not folder) sizes in bytes as shown in the image below:
 </h4>
 
-<div style="text-align:center"><img src="https://i.imgur.com/s03MWBB.png" /></div>
-  
+
+<p align="center">
+  <img src="https://i.imgur.com/s03MWBB.png">
+</p>
 
 <blockquote>Medium: <a href="https://woosal1337.medium.com/listing-all-the-files-subdirectories-laying-down-in-the-path-recursively-java-6b7fa1080068"> Click Here</a></blockquote>
 
